@@ -6,19 +6,7 @@
 	* Then select the tool you want to use!
 <br/>
 
-# 
-لأجهزة الكمبيوتر / الكمبيوتر المحمول فقط:
-	* Download GIT for Windows	(https://git-scm.com/download/) *Choose WIN & 32bit/64bit
-	* Download NodeJS 			(https://nodejs.org/en/download/) *Choose .msi & 32bit/64bit
-	* INSTALL GIT for Windows & NodeJS
-	* Download File on Github (https://github.com/sandalpenyok/kojawafft)
-	* Extract File kojawafft and enter the folder
-	* Right Click on Mouse, Then Select "Git Bash Here" (Make sure you are in the bot-ig folder!!!)
-	* Then type: unzip node_modules.zip
-	* To View The Contents Of a folder in bash, type: "ls" (without "")
-	* To Run The Program in bash, type: "node index.js" (without "")
-	* Then select the tool you want to use!
-<br/>
+
 
 # بالنسبة لـ TERMUX فقط:
 	* Install Termux (PlayStore)
